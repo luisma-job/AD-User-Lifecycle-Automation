@@ -1,0 +1,8 @@
+# Reportes y logs generados durante las ejecuciones
+**/Reportes/
+**/InformesMensuales/
+**/Logs/
+
+# Archivos temporales
+*.tmp
+*.log
